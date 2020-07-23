@@ -1,0 +1,11 @@
+{
+  "name": "monorepo-structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "author": "Mateus Baptista <mtsbap@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
