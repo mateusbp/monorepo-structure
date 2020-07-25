@@ -31,6 +31,15 @@ Rocketseat video https://www.youtube.com/watch?v=k5TkBcUTJus
   $ yarn start
 ```
 
+### web
+
+```sh
+  $ cd web 
+  $ yarn start
+```
+
+> in your browser open http://localhost:3000
+
 ### mobile
 - android
 > with your emulator running.
