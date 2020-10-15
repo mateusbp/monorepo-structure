@@ -5,7 +5,9 @@
   "private": true,
   "author": "Mateus Baptista <mtsbap@gmail.com>",
   "license": "MIT",
-  "workspaces": [
-    "packages/*"
-  ]
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
 }
